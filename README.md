@@ -1,2 +1,2 @@
-# Machhine Learning Feature Construction
+# Machine Learning Feature Construction
 Novel metric for feature construction
